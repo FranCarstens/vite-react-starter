@@ -12,13 +12,11 @@ Includes React, Vite, Tailwind CSS, and Headless UI.
 
 `npm run build`
 
-Related Documentation:
+## Docs and Repos
 
-- Vite: https://vitejs.dev/guide
-  - https://github.com/vitejs/vite
-- React: https://react.dev/learn
-  - https://github.com/facebook/react
-- Tailwind CSS: https://tailwindcss.com/docs/utility-first
-  - https://github.com/tailwindlabs/tailwindcss
-- Headless UI: https://headlessui.com/
-  - https://github.com/tailwindlabs/headlessui
+| Library      | Docs                                       | Repo                                        |
+| ------------ | ------------------------------------------ | ------------------------------------------- |
+| Vite         | https://vitejs.dev/guide                   | https://github.com/vitejs/vite              |
+| React        | https://react.dev/learn                    | https://github.com/facebook/react           |
+| Tailwind CSS | https://tailwindcss.com/docs/utility-first | https://github.com/tailwindlabs/tailwindcss |
+| Headless UI  | https://headlessui.com/                    | https://github.com/tailwindlabs/headlessui  |
